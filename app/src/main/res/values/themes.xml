@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MeeshoClone" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink_meesho</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/pink_meesho</item>
+    </style>
+
+    <style name="Theme.MeeshoClone" parent="Base.Theme.MeeshoClone" />
+</resources>
